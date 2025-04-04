@@ -50,7 +50,7 @@ namespace Polymorphism
         public override void one(int a)
         {
             base.one(a);
-            Console.WriteLine("overrideing one");
+            Console.WriteLine("overrideing one two");
         }
     }
 }
